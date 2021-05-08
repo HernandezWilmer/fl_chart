@@ -53,7 +53,7 @@ class _MyHomePageState extends State<MyHomePage> {
     LineChartPage3(),
     LineChartPage4(),
     ScatterChartPage(),
-    RadarChartPage(),
+    //RadarChartPage(),
   ];
 
   @override
